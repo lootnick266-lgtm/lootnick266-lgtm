@@ -1,0 +1,1 @@
+![Баннер](docs/banner.jpg)

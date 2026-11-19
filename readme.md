@@ -1,1 +1,1 @@
-![Баннер](docs/banner.jpg)
+![Баннер](docs/banner_v2.svg)
